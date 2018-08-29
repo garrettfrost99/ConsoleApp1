@@ -26,6 +26,8 @@ namespace ConsoleApp1
             Console.WriteLine(flags[2]);
 
             var names = new string[3] { "sdknfkls", "asdfasdf", "hgrhfdgh" };
+
+            //test change
         }
     }
 }
